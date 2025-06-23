@@ -70,33 +70,12 @@ This project reflects my commitment to transforming data into **insightful, fina
 
 ---
 
-## 📁 Repository Contents  
-
-| File | Description |
-|------|-------------|
-| `starbuck_nyc_sales_dashboard.pbix` | Power BI file with full model and report |
-| `assets/starbucks_dashboard_preview.png` | Static dashboard preview |
-| `dynamic_dashboard.mp4` | Walkthrough demo (host externally for embedding) |
-
----
-
-## 🚀 Getting Started  
-
-To explore the dashboard locally:
-
-1. Download the `.pbix` file
-2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/)
-3. Interact with slicers, filters, and visualizations
-
----
-
 ## 🧔 About the Author  
 
 **Tosin Bello Emmanuel**  
 📊 Financial Analyst | Data Scientist | Accountant  
 📫 Email: toshineb@gmail.com  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/tosinbellofin])  
-📍 Lagos, Nigeria  
+🔗 [LinkedIn Profile]([https://www.linkedin.com/in/tosinbellofin])    
 
 > I’m passionate about helping businesses make smarter financial decisions through data. With over 40 completed analytics projects, I bring both **technical expertise and business judgment** to every dashboard I build.
 
