@@ -1,8 +1,8 @@
 # Starbucks-NYC-Sales-Dashboard-Power-BI-Project
 This project presents a dynamic Power BI dashboard that visualizes and analyzes sales data for Starbucks stores in New York City. It was developed to support data-driven business decisions, providing stakeholders with a comprehensive view of retail performance across time, product categories, store locations, and customer behavior.
 # 📊 Starbucks NYC Sales Dashboard — Power BI Project
+![Dashboard Preview](/Screenshot%202025-06-24%20003258.png)
 
-![Dashboard Preview](assets/starbucks_dashboard_preview.png)
 
 > 🔥 _A dynamic and interactive dashboard built to analyze Starbucks retail performance across NYC using Power BI._
 
@@ -102,12 +102,3 @@ To explore the dashboard locally:
 
 ---
 
-## ⏯️ How to Embed the Video on GitHub  
-
-⚠️ GitHub does **not support autoplay** or direct `.mp4` video playback in README files. To embed video effectively:
-
-1. Upload your `.mp4` to **YouTube**, **Loom**, or another hosting platform.
-2. Replace `YOUR_VIDEO_ID` in the image link above with your actual video ID.
-
-```markdown
-[![Watch Dashboard Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
