@@ -75,7 +75,7 @@ This project reflects my commitment to transforming data into **insightful, fina
 **Tosin Bello Emmanuel**  
 📊 Financial Analyst | Data Scientist | Accountant  
 📫 Email: toshineb@gmail.com  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/tosinbellofin])    
+🔗**LinkedIn**: [Tosin Bello](https://www.linkedin.com/in/tosinbellofin)    
 
 > I’m passionate about helping businesses make smarter financial decisions through data. With over 40 completed analytics projects, I bring both **technical expertise and business judgment** to every dashboard I build.
 
